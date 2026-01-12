@@ -9,6 +9,3 @@ require (
 	go.opentelemetry.io/otel/sdk v1.39.0
 )
 
-replace (
-	github.com/go-anyway/framework-log => ../core/log
-)
